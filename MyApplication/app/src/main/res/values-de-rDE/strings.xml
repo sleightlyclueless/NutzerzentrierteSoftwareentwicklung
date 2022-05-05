@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="filter_options">"Filteroptionen: "</string>
+    <string name="charging_stations">Ladestationen</string>
+    <string name="welcome_to_e_charge">Willkommen bei E-Charge</string>
+    <string name="please_select">Wer bist du?</string>
+    <string name="user">Benutzer</string>
+    <string name="worker">Techniker</string>
+    <string name="only_favourites">Nur Favoriten</string>
+    <string name="fast_charging">Nur Schnellladen</string>
+    <string name="range_unlimited">Umkreis: unbegrenzt</string>
+    <string name="home">Start</string>
+    <string name="map">Karte</string>
+    <string name="service">Service</string>
+    <string name="errLocation">Bitte Standort zulassen!</string>
+    <string name="broken">Ladestation defekt</string>
+    <string name="favouriteDefect">Lieblings Ladestation (defekt)</string>
+    <string name="favourite">Lieblings Ladestation</string>
+    <string name="station">Ladestation</string>
+    <string name="favourites">Favoriten</string>
+    <string name="fastCharging">Schnelladen</string>
+    <string name="range">Distanz</string>
+    <string name="unlimited">unbegrenzt</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/14_STUDIUM/NZSE/nzse_2021_sa_se_pa/MyApplication/app/src/main/res/layout/activity_get_charging_stations.xml" value="0.36666666666666664" />
+        <entry key="..\:/14_STUDIUM/NZSE/nzse_2021_sa_se_pa/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/14_STUDIUM/NZSE/nzse_2021_sa_se_pa/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/14_STUDIUM/NZSE/nzse_2021_sa_se_pa/MyApplication/app/src/main/res/layout/fragment_service.xml" value="0.36666666666666664" />
+<<<<<<< Updated upstream
+=======
+        <entry key="..\:/14_STUDIUM/NZSE/nzse_2021_sa_se_pa/MyApplication/app/src/main/res/layout/list_item.xml" value="0.33" />
+        <entry key="..\:/Dokumente/Programming/Uni/Semester-3/NZSE/nzse_2021_sa_se_pa/MyApplication/app/src/main/res/layout/activity_get_charging_stations.xml" value="0.20520833333333333" />
+        <entry key="..\:/Dokumente/Programming/Uni/Semester-3/NZSE/nzse_2021_sa_se_pa/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Dokumente/Programming/Uni/Semester-3/NZSE/nzse_2021_sa_se_pa/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.3920398009950249" />
+        <entry key="..\:/Dokumente/Programming/Uni/Semester-3/NZSE/nzse_2021_sa_se_pa/MyApplication/app/src/main/res/layout/fragment_map.xml" value="0.5541666666666667" />
+        <entry key="..\:/Dokumente/Programming/Uni/Semester-3/NZSE/nzse_2021_sa_se_pa/MyApplication/app/src/main/res/layout/fragment_service.xml" value="0.5541666666666667" />
+        <entry key="..\:/Dokumente/Programming/Uni/Semester-3/NZSE/nzse_2021_sa_se_pa/MyApplication/app/src/main/res/layout/list_item.xml" value="0.2695035460992908" />
+>>>>>>> Stashed changes
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.490036231884058" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.490036231884058" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/fragment_map.xml" value="0.490036231884058" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/fragment_service.xml" value="0.490036231884058" />
+        <entry key="..\:/MyApplication/app/src/main/res/menu/bottom_navigation.xml" value="0.559375" />
+        <entry key="..\:/Users/paulb/OneDrive/Documents/Uni/Semester 3/NZSE/Praktikum/nzse_2021_sa_se_pa/MyApplication/app/src/main/res/layout/AndroidManifest.xml" value="0.26494427558257344" />
+        <entry key="..\:/Users/paulb/OneDrive/Documents/Uni/Semester 3/NZSE/Praktikum/nzse_2021_sa_se_pa/MyApplication/app/src/main/res/layout/activity_get_charging_stations.xml" value="0.27203647416413373" />
+        <entry key="..\:/Users/paulb/OneDrive/Documents/Uni/Semester 3/NZSE/Praktikum/nzse_2021_sa_se_pa/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.334375" />
+        <entry key="..\:/Users/paulb/OneDrive/Documents/Uni/Semester 3/NZSE/Praktikum/nzse_2021_sa_se_pa/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.559375" />
+        <entry key="..\:/Users/paulb/OneDrive/Documents/Uni/Semester 3/NZSE/Praktikum/nzse_2021_sa_se_pa/MyApplication/app/src/main/res/layout/fragment_map.xml" value="0.4773550724637681" />
+        <entry key="..\:/Users/paulb/OneDrive/Documents/Uni/Semester 3/NZSE/Praktikum/nzse_2021_sa_se_pa/MyApplication/app/src/main/res/menu/bottom_navigation.xml" value="0.334375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

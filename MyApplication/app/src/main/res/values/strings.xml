@@ -1,0 +1,23 @@
+<resources>
+    <string name="filter_options">Filter Options:</string>
+    <string name="charging_stations">Charging Stations</string>
+    <string name="welcome_to_e_charge">Welcome to E-Charge</string>
+    <string name="please_select">Who are you?</string>
+    <string name="user">User</string>
+    <string name="worker">Worker</string>
+    <string name="only_favourites">Only Favourites</string>
+    <string name="fast_charging">Fast Charging</string>
+    <string name="range_unlimited">Range: unlimited</string>
+    <string name="home">Home</string>
+    <string name="map">Map</string>
+    <string name="service">Service</string>
+    <string name="errLocation">Please allow location</string>
+    <string name="broken">Charging station out of order</string>
+    <string name="favouriteDefect">Favourite charging station (defect)</string>
+    <string name="favourite">Favourite charging station</string>
+    <string name="station">Charging station</string>
+    <string name="favourites">Favourites</string>
+    <string name="fastCharging">Fast Charging</string>
+    <string name="range">Range</string>
+    <string name="unlimited">unlimited</string>
+</resources>
